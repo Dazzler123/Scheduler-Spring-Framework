@@ -17,8 +17,8 @@ public class SchedulerTest {
     public void runTest(){
         System.out.println("Display output count : " + i);
         i++;
-        if(i > 5){
-            System.out.println("=========== Output greater than 5 ==========");
+        if(i == 5){
+            System.out.println("=========== Output equals to 5 ==========");
             i = i - 5;
         }
     }

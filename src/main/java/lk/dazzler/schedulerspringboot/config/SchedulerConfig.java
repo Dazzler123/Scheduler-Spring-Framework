@@ -4,7 +4,7 @@
  * Time : 12:52 PM
  * Project Name : Scheduler-Spring-Boot
  */
-package lk.dazzler.schedulerspringboot;
+package lk.dazzler.schedulerspringboot.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.EnableScheduling;
